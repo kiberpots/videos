@@ -1,0 +1,1 @@
+  19.08.2020 11:47:03 GMT-4: Starting composition “intro”.  Output To: /Users/ai/Desktop/киберпоц/intro/intro_1_p2_v2.mov    19.08.2020 11:47:18 GMT-4: Finished composition “intro”.  Total Time Elapsed: 15 SecondsLog closed on 19.08.2020 at 11:47:18 GMT-4
